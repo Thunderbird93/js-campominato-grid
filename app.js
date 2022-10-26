@@ -13,3 +13,6 @@ ed emetto un messaggio in console con il numero della cella cliccata.
 const play = document.querySelector(`.play`);
 
 const grid = document.querySelector(`.s-grid`);
+
+const celle = 100;
+
