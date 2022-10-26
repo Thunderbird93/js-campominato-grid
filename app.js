@@ -16,3 +16,19 @@ const grid = document.querySelector(`.s-grid`);
 
 const celle = 100;
 
+
+function generaCella(x) {
+    const cella = document.createElement('div')
+    cella.className = "cell";
+    cella.innerText = x;
+    return cella
+}
+
+
+
+
+
+
+
+
+
