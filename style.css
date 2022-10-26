@@ -14,3 +14,14 @@ body {
 .s-row {
     text-align: center;
 }
+
+.s-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.play {
+    margin-bottom: 1rem;
+}
