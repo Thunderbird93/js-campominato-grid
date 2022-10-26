@@ -28,6 +28,8 @@ function generaCella(x) {
 play.addEventListener('click', function(){
     generaCampo(celle, grid);
     function generaCampo(max, element) {
+        for (let i = 1; i <= celle; i++) {
+        }
     }
 }
 )
