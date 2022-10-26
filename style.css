@@ -33,7 +33,7 @@ body {
     align-items: center;
     width: calc(100% / 10);
     aspect-ratio: 1/1;
-    background-color: gray;
+    background-color: whitesmoke;
 }
 
 .cell.active {
