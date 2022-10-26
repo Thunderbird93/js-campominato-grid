@@ -26,7 +26,9 @@ function generaCella(x) {
 
 
 play.addEventListener('click', function(){
-
+    generaCampo(celle, grid);
+    function generaCampo(max, element) {
+    }
 }
 )
 
