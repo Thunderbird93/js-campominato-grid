@@ -8,16 +8,9 @@ ed emetto un messaggio in console con il numero della cella cliccata.
 */
 
 
-//seleziono la griglia (il container)
-const griglia = document.getElementById('container');
 
-//selziono il bottone
-const bottone = document.getElementById('btn');
 
-//aggiungo un'azione al bottone
-bottone.addEventListener('click', function(){
-    griglia.innerHTML="";
-    boxClickAdd('box', 'active');
-})
+
+
 
 

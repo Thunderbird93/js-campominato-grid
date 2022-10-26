@@ -36,3 +36,6 @@ body {
     background-color: gray;
 }
 
+.cell.active {
+    background-color: green;
+}
