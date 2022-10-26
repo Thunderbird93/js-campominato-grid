@@ -25,6 +25,10 @@ function generaCella(x) {
 }
 
 
+play.addEventListener('click', function(){
+
+}
+)
 
 
 
